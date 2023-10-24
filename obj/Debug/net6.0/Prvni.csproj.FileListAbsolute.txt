@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\bin\Debug\net6.0\Prvni.exe
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\bin\Debug\net6.0\Prvni.deps.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\bin\Debug\net6.0\Prvni.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\bin\Debug\net6.0\Prvni.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\bin\Debug\net6.0\Prvni.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\Prvni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\Prvni.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\Prvni.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\Prvni.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\Prvni.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\refint\Prvni.dll
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\Prvni.pdb
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\Prvni.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\CSharp\PrvniCviko\Prvni\Prvni\obj\Debug\net6.0\ref\Prvni.dll
